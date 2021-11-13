@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ProyectoGifos-AcamicaSprint3/static/css/main.da865b9b.chunk.css",
+    "main.js": "/ProyectoGifos-AcamicaSprint3/static/js/main.3dddfdfd.chunk.js",
+    "main.js.map": "/ProyectoGifos-AcamicaSprint3/static/js/main.3dddfdfd.chunk.js.map",
+    "runtime-main.js": "/ProyectoGifos-AcamicaSprint3/static/js/runtime-main.146d6f1e.js",
+    "runtime-main.js.map": "/ProyectoGifos-AcamicaSprint3/static/js/runtime-main.146d6f1e.js.map",
+    "static/js/2.c772729c.chunk.js": "/ProyectoGifos-AcamicaSprint3/static/js/2.c772729c.chunk.js",
+    "static/js/2.c772729c.chunk.js.map": "/ProyectoGifos-AcamicaSprint3/static/js/2.c772729c.chunk.js.map",
+    "static/js/3.55dde6c8.chunk.js": "/ProyectoGifos-AcamicaSprint3/static/js/3.55dde6c8.chunk.js",
+    "static/js/3.55dde6c8.chunk.js.map": "/ProyectoGifos-AcamicaSprint3/static/js/3.55dde6c8.chunk.js.map",
+    "index.html": "/ProyectoGifos-AcamicaSprint3/index.html",
+    "static/css/main.da865b9b.chunk.css.map": "/ProyectoGifos-AcamicaSprint3/static/css/main.da865b9b.chunk.css.map",
+    "static/js/2.c772729c.chunk.js.LICENSE.txt": "/ProyectoGifos-AcamicaSprint3/static/js/2.c772729c.chunk.js.LICENSE.txt",
+    "static/media/icon-search-mod-noc.ecc2b197.svg": "/ProyectoGifos-AcamicaSprint3/static/media/icon-search-mod-noc.ecc2b197.svg",
+    "static/media/ilustra_header.9d4669b1.svg": "/ProyectoGifos-AcamicaSprint3/static/media/ilustra_header.9d4669b1.svg",
+    "static/media/loading.6381f4d1.svg": "/ProyectoGifos-AcamicaSprint3/static/media/loading.6381f4d1.svg",
+    "static/media/logo-desktop.2f122678.svg": "/ProyectoGifos-AcamicaSprint3/static/media/logo-desktop.2f122678.svg",
+    "static/media/logo-mobile-modo-noct.47e214b1.svg": "/ProyectoGifos-AcamicaSprint3/static/media/logo-mobile-modo-noct.47e214b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.146d6f1e.js",
+    "static/js/2.c772729c.chunk.js",
+    "static/css/main.da865b9b.chunk.css",
+    "static/js/main.3dddfdfd.chunk.js"
+  ]
+}
