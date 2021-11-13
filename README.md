@@ -7,6 +7,8 @@
 * [React](https://reactjs.org/)
 * [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 * [Google Fonts](https://fonts.google.com/)
+* [API GIPHY DEVELOPER](https://developers.giphy.com/docs/api/endpoint#trending)
+* [FontAwesome](https://fontawesome.com/)
 
 ## Features Solicitadas
 
