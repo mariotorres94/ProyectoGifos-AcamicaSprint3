@@ -1,0 +1,12 @@
+.contenido__imagen{
+    margin-top: 41px;
+}
+.contenido__imagen:nth-child(13),
+.contenido__imagen:nth-child(14),
+.contenido__imagen:nth-child(15){
+    margin-bottom: 41px;
+}
+.contenido__imagen img{
+    width: 250px;
+    height: 250px;
+}

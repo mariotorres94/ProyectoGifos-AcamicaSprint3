@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+:root{
+  --negro: #121212;
+  --morado: #6809E1;
+  --gris: #E7E7E7;
+  --backgroundBody: #373737;
+  --backgroundList: #212121;
+}
+.App {
+  text-align: center;
+  border-top: 4px solid var(--morado);
+  transition: all 0.5s ease-in-out;
+}
+.App.dark{
+  background-color: #373737;
+  transition: all 0.5s ease-in-out;
+}

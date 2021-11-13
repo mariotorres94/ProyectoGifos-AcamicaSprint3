@@ -1,0 +1,43 @@
+:root{
+    --morado: #6809E1;
+    --blanco: #ffffff;
+}
+.container__header{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 26px;
+}
+.contenido__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon__header{
+    width: 60px;
+    height: 60px;
+    padding-left: 79px;
+}
+.icon__header img{
+    width: 60px;
+    height: 60px;
+}
+.button__header{
+    padding-right: 68px;
+}
+.button__header button{
+    width: 148px;
+    height: 43px;
+    border: 1px solid var(--morado);
+    border-radius: 61px;
+    background-color: var(--blanco);
+    cursor: pointer;
+    color: var(--morado);
+    font-weight: bold;
+    transition: all 0.5s ease-in-out;
+}
+.button__header.dark button{
+    background-color: var(--backgroundBody);
+    border: 1px solid var(--blanco);
+    color: var(--blanco);
+    transition: all 0.5s ease-in-out;
+}

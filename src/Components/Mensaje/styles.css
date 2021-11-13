@@ -1,0 +1,10 @@
+.container__mensaje{
+    padding: 23px;
+}
+.container__mensaje.dark h1,
+.container__mensaje.dark p{
+    color: var(--blanco);
+}
+.container__mensaje img{
+    width: 100px;
+}
