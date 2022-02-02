@@ -1,7 +1,7 @@
 # Aplicación Web - Busqueda de Gifos [Carrera: Desarrollo Web Frontend]
 
 ## Aplicación de Busqueda de Gifos
-* [Link a la demo](https://mariotorres94.github.io/ReservaDeAlojamiento-AcamicaSprint2/)
+* [Link a la demo](https://mariotorres94.github.io/ProyectoGifos-AcamicaSprint3/)
 
 ## Tecnologías y recursos utilizados 
 * [React](https://reactjs.org/)
